@@ -2,12 +2,18 @@ h1{
   margin: auto;
 }
 
+h2{
+  margin: 0;
+}
+
 p{
   margin: 1px;
 }
+
 body{
   margin: 0;
 }
+
 .thDiv{
   margin-left: auto;
   margin-right: auto;
@@ -15,6 +21,7 @@ body{
   height: 150px;
   width: 100%;
 }
+
 .TopHeader{
   color: #82954B;
   font-family: sans-serif;
@@ -22,7 +29,24 @@ body{
   text-align: center;
   padding-top: 30px;
 }
+
 .paragraphs{
   text-align: center;
   font-family: sans-serif;
+  background-color: #FFEF82;
+}
+.firstP{
+  padding-top: 100px;
+}
+.secondP{
+  padding-top: 100px;
+}
+.thirdP{
+  padding-top: 100px;
+}
+.fourthP{
+  padding-top: 100px;
+}
+.fifthP{
+  padding-top: 100px;
 }
