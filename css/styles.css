@@ -37,15 +37,18 @@ body{
   font-size: 30px;
 }
 .firstP{
+  text-align: left;
   padding-top: 200px;
 }
 .secondP{
   padding-top: 300px;
 }
 .thirdP{
+  text-align: right;
   padding-top: 300px;
 }
 .fourthP{
+  text-align: left;
   padding-top: 300px;
 }
 .fifthP{
